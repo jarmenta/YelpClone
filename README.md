@@ -21,7 +21,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented application:
 
-<img src='http://i.imgur.com/tPo9cpY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/tPo9cpY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Imgur](https://imgur.com/).
 
